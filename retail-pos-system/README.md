@@ -4,7 +4,7 @@ A modern Point of Sale and Inventory Management System for small retail business
 
 ## Developed By
 
-**Emmanuel Ige**  
+**David Olumide IPAYE**  
 Full-stack web application project using **Next.js, TypeScript, Supabase, and Vercel**.
 
 ## Project Overview
